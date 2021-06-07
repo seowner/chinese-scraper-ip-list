@@ -1,4 +1,4 @@
-# chinese-scraper-ip-list
+# Chinese/Scraper IP List
 List of Chinese/Scraper/Vulnerability probing IPs - taken from cPanel access logs
 
 - Any IPs trying to access files/directories such as wp-login.php, wp-config.php, wp-admin, wp-includes, etc are automatically blocked.
